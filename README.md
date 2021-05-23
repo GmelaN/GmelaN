@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GmelaN
-- 👀 I’m interested in ... deeplearning, backend
-- 🌱 I’m currently learning ... nodeJS, python, deeplearning
+- 👀 I’m interested in ... backend, algorithm training
+- 🌱 I’m currently learning ... python, data processing
 - 💞️ I’m looking to collaborate on ... building API server
 - 📫 How to reach me ... email me
 
